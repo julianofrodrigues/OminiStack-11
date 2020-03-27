@@ -1,0 +1,4 @@
+O ddd do país deve ser implementado no banco, como rquisição do back e na interface do front no react,
+isso tambem para o ddd de estado, pois senão o whats não funciona bem, no momento fiz um recurso tecnico
+provisorio no mobile para resolver isso, então só funciona o ddd brasileiro e ddd 24, e há varios outros 
+pontos que podem ser melhorados como a rotina de testes mesmo e outros...
